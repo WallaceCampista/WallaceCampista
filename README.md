@@ -1,6 +1,6 @@
 # Olá, eu sou o Wallace Campista
 
-**AI Engineer & Desenvolvedor Full Stack** · Java / Spring Boot · Rio de Janeiro, Brasil
+**AI Engineer & Desenvolvedor Full Stack** · Java / Spring Boot · Taubaté - São Paulo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/wallace-campista-rocha-7582b3141)
 [![Site](https://img.shields.io/badge/wallacecampista.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wallacecampista.com.br)
